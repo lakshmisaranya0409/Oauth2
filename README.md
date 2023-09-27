@@ -5,7 +5,11 @@ Implementing Oauth2 authorization
 
 ### Steps :
 #### 1. Create a spring boot application and add the dependancies of oauth2 client  and build the application such that all the jar files are downloaded in to the application.
+![image](https://github.com/lakshmisaranya0409/Oauth2/assets/143079949/09e99ef9-be82-42f9-8ec3-ac921e081e5b)
+
 #### 2. In order to act my spring boot application as the client first i need to register my client details in the google server after registering we can get a client id and client secret.
+![image](https://github.com/lakshmisaranya0409/Oauth2/assets/143079949/c022163a-cb0e-422f-a909-b9dfd769bd51)
+
 #### 3. The client id and client secret should be added in the application.properties file of your spring boot application.
 #### 4. After adding now create an API that needs to be secured using the controller.
 #### 5. Now by using the security filter chain secure the API such that all the API's are blocked after running of application.
