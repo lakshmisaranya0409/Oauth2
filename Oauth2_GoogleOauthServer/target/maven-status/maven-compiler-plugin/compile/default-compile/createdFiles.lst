@@ -1,0 +1,4 @@
+com\example\springsecurityOAuth2\controller\SecureController$Message.class
+com\example\springsecurityOAuth2\config\SpringSecurityOAuth2Config.class
+com\example\springsecurityOAuth2\SpringsecurityOauth2Application.class
+com\example\springsecurityOAuth2\controller\SecureController.class
